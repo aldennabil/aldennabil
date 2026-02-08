@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm passionate about transforming raw data into actionable
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** linkedin.com/in/aldennabil
 - **Email:** [your.email@example.com]
 - **Portfolio Website:** [Your Website]
 - **Medium:** [Your Medium Profile]
@@ -65,4 +65,4 @@ This repository is open source and available under the MIT License.
 
 ---
 
-**Last Updated:** 2026-02-08
+**Last Updated:** 2026-02-08 14:02:45
