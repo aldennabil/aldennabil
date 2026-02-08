@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alden
 
-### Data Science | Machine Learning | Analytics
+### Data Science | Machine Learning | Statistics
 
-Welcome to my GitHub! I'm passionate about transforming raw data into actionable insights through statistical analysis and machine learning. Here you'll find my projects, experiments, and contributions to the data science community.
+Welcome to my GitHub! This space serves as a living documentation of my data science journey. I’m fueled by a passion for continuous learning and a belief that knowledge grows best when shared. Feel free to explore my projects and if you see something interesting, let’s connect and learn together!
 
 ---
 
@@ -10,22 +10,10 @@ Welcome to my GitHub! I'm passionate about transforming raw data into actionable
 
 - 🎓 Statistics and Data Science Student
 - 💻 Proficient in Python, R, SQL, Ms. Excel
-- 🤖 Interested in Machine Learning, NLP, and Computer Vision
+- 🤖 Interested in Machine Learning and NLP using statistical approach
 - 📈 Love building predictive models and data visualizations
 - 🌱 Currently exploring Time Series Analysis
 - 📚 Passionate about open-source contributions
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, R, SQL, JavaScript |
-| **Data Science** | Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Tableau, Power BI |
-| **Tools & Platforms** | Jupyter, Git, Docker, GitHub Actions |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
 
 ---
 
@@ -87,7 +75,7 @@ The dashboard features:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldennabil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldennabil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldennabil31@gmail.com)
-
+[![Medium](https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=medium&logoColor=white)](mailto:aldennabil31@gmail.com)
 </div>
 
 - **LinkedIn:** [linkedin.com/in/aldennabil](https://linkedin.com/in/aldennabil)
