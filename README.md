@@ -1065,3 +1065,60 @@ My projects on Machine Learning with Statistical Approach
 
 ---
 **Last Updated:** 2026-02-26 13:05:51 UTC
+
+
+
+## 📊 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | 8 |
+| Followers | 2 |
+| Following | 0 |
+| Public Gists | 0 |
+
+## 🔤 Top Languages
+
+- **Python**: 2 repos
+- **HTML**: 2 repos
+
+## ⭐ Top Repositories
+
+
+### [aldennabil](https://github.com/aldennabil/aldennabil)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [data-science-dashboard](https://github.com/aldennabil/data-science-dashboard)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [Survival-Analysis](https://github.com/aldennabil/Survival-Analysis)
+My projects on Survival Analysis
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+### [Metode-Sampling-Resampling](https://github.com/aldennabil/Metode-Sampling-Resampling)
+Projek Mata Kuliah Sampling Resampling
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+### [Machine-Learning](https://github.com/aldennabil/Machine-Learning)
+My projects on Machine Learning with Statistical Approach
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+---
+**Last Updated:** 2026-02-27 12:58:48 UTC
