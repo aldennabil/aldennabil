@@ -2739,3 +2739,61 @@ My projects on Survival Analysis
 
 ---
 **Last Updated:** 2026-03-28 12:55:09 UTC
+
+
+
+## 📊 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | 10 |
+| Followers | 4 |
+| Following | 2 |
+| Public Gists | 0 |
+
+## 🔤 Top Languages
+
+- **Python**: 2 repos
+- **HTML**: 2 repos
+- **Jupyter Notebook**: 1 repos
+
+## ⭐ Top Repositories
+
+
+### [Olist-E-Commerce-Dashboard-Analysis](https://github.com/aldennabil/Olist-E-Commerce-Dashboard-Analysis)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [aldennabil](https://github.com/aldennabil/aldennabil)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [Projects](https://github.com/aldennabil/Projects)
+Repo for my projects
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+### [data-science-dashboard](https://github.com/aldennabil/data-science-dashboard)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [Survival-Analysis](https://github.com/aldennabil/Survival-Analysis)
+My projects on Survival Analysis
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+---
+**Last Updated:** 2026-03-29 12:55:50 UTC
