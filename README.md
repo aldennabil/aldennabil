@@ -5929,3 +5929,61 @@ Repo for my projects
 
 ---
 **Last Updated:** 2026-05-24 13:25:09 UTC
+
+
+
+## 📊 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | 12 |
+| Followers | 9 |
+| Following | 17 |
+| Public Gists | 0 |
+
+## 🔤 Top Languages
+
+- **Python**: 2 repos
+- **HTML**: 2 repos
+- **Jupyter Notebook**: 1 repos
+
+## ⭐ Top Repositories
+
+
+### [aldennabil](https://github.com/aldennabil/aldennabil)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [skills-introduction-to-github](https://github.com/aldennabil/skills-introduction-to-github)
+My clone repository
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+### [LendingClub-Loan-Analysis](https://github.com/aldennabil/LendingClub-Loan-Analysis)
+Lending Club Loan Default Analysis using historic loan applications data.
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+### [Olist-E-Commerce-Dashboard-Analysis](https://github.com/aldennabil/Olist-E-Commerce-Dashboard-Analysis)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [Projects](https://github.com/aldennabil/Projects)
+Repo for my projects
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+---
+**Last Updated:** 2026-05-25 14:52:42 UTC
