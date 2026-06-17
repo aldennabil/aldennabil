@@ -7263,3 +7263,61 @@ Lending Club Loan Default Analysis using historic loan applications data.
 
 ---
 **Last Updated:** 2026-06-16 16:50:58 UTC
+
+
+
+## 📊 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | 14 |
+| Followers | 13 |
+| Following | 19 |
+| Public Gists | 0 |
+
+## 🔤 Top Languages
+
+- **Jupyter Notebook**: 3 repos
+- **Python**: 2 repos
+- **HTML**: 2 repos
+
+## ⭐ Top Repositories
+
+
+### [aldennabil](https://github.com/aldennabil/aldennabil)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [AI-Impact-on-Students-Academic-Well-being](https://github.com/aldennabil/AI-Impact-on-Students-Academic-Well-being)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [finsight](https://github.com/aldennabil/finsight)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [skills-introduction-to-github](https://github.com/aldennabil/skills-introduction-to-github)
+My clone repository
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+### [LendingClub-Loan-Analysis](https://github.com/aldennabil/LendingClub-Loan-Analysis)
+Lending Club Loan Default Analysis using historic loan applications data.
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+---
+**Last Updated:** 2026-06-17 15:28:09 UTC
