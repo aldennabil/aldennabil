@@ -11149,3 +11149,61 @@ My clone repository
 
 ---
 **Last Updated:** 2026-08-24 12:47:13 UTC
+
+
+
+## 📊 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | 15 |
+| Followers | 14 |
+| Following | 19 |
+| Public Gists | 0 |
+
+## 🔤 Top Languages
+
+- **HTML**: 3 repos
+- **Jupyter Notebook**: 3 repos
+- **Python**: 2 repos
+
+## ⭐ Top Repositories
+
+
+### [aldennabil](https://github.com/aldennabil/aldennabil)
+No description
+- ⭐ Stars: 1
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [aldennabil.github.io](https://github.com/aldennabil/aldennabil.github.io)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: HTML
+
+
+### [AI-Impact-on-Students-Academic-Well-being](https://github.com/aldennabil/AI-Impact-on-Students-Academic-Well-being)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [finsight](https://github.com/aldennabil/finsight)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [skills-introduction-to-github](https://github.com/aldennabil/skills-introduction-to-github)
+My clone repository
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: N/A
+
+
+---
+**Last Updated:** 2026-08-25 12:43:50 UTC
