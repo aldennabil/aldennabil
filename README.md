@@ -13381,3 +13381,62 @@ No description
 
 ---
 **Last Updated:** 2026-10-02 17:31:40 UTC
+
+
+
+## 📊 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repos | 16 |
+| Followers | 16 |
+| Following | 20 |
+| Public Gists | 0 |
+
+## 🔤 Top Languages
+
+- **HTML**: 3 repos
+- **Jupyter Notebook**: 3 repos
+- **Python**: 2 repos
+- **TypeScript**: 1 repos
+
+## ⭐ Top Repositories
+
+
+### [aldennabil](https://github.com/aldennabil/aldennabil)
+No description
+- ⭐ Stars: 1
+- 🔀 Forks: 0
+- 🔤 Language: Python
+
+
+### [web-portfolio](https://github.com/aldennabil/web-portfolio)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: TypeScript
+
+
+### [aldennabil.github.io](https://github.com/aldennabil/aldennabil.github.io)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: HTML
+
+
+### [AI-Impact-on-Students-Academic-Well-being](https://github.com/aldennabil/AI-Impact-on-Students-Academic-Well-being)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+### [finsight](https://github.com/aldennabil/finsight)
+No description
+- ⭐ Stars: 0
+- 🔀 Forks: 0
+- 🔤 Language: Jupyter Notebook
+
+
+---
+**Last Updated:** 2026-10-03 15:46:01 UTC
